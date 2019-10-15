@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap');
+body { font-family: 'Roboto', sans-serif; background:#fff; color: #ffffff; margin:0; padding:0; font-weight: 400;}
+img { max-width:100%; border: 0px; }
+
+.pad-left{padding-left: 10px;}
+.pad-right{padding-right: 10px;}
+.text-ri{text-align: right;}
+
+.lp-container{max-width: 1030px;}
+.lp-bg {background: url(../images/lp-bg.png) no-repeat center top, linear-gradient(to right, #2923c5 24%, #6328d2 68%, #9223ca 100%);}
+.lp-hed-bg{background-color: rgba(0, 0, 0, 0.2); text-align: center; padding: 20px 0;}
+.lp-title{font-size: 48px; font-weight: 700; text-align: center; border-bottom: 1px solid rgba(255, 255, 255, 0.3); margin-top: 40px; margin-bottom: 30px; padding-bottom: 25px;}
+.po-main{background-color: rgba(0, 0, 0, 0.25); padding: 0 20px;}
+.po-main .point {border-bottom: 1px solid rgba(255, 255, 255, 0.2); padding: 18px 0; align-items: center;}
+.po-main .point:last-child {border-bottom: none;}
+.po-main .point p {font-size: 18px; color: #ffffff; font-weight: 700; margin: 0; line-height: 23px;}
+.dow-box {background-color: #f88306; padding: 20px; align-items: center; margin: 40px 0;}
+.dow-box.blue {background-color: #426eff; padding: 15px 20px;}
+.dow-box p {font-size: 19px; color: #ffffff; font-weight: 500; margin: 0; line-height: 30px;}
+.fea-main{background: url(../images/fea-bg.jpg) no-repeat center top, rgba(0, 0, 0, 0.25); padding: 20px; margin-bottom: 40px;}
+.fea-main .bd{border: 1px solid rgba(255, 255, 255, 0.7); padding: 20px 20px 10px 20px;}
+.fea-main h2{background: #f8ab06;font-size: 50px; font-weight: 700; color: #ffffff; padding: 20px; text-transform: uppercase; display: table; margin: 35px 0 74px 0;}
+.fea-main .po-box {background-color: #ffffff; padding: 15px; align-items: center; margin-bottom: 10px;}
+.fea-main .po-box img {border-right: 1px solid #e8eaed; padding-right: 15px; margin-right: 15px;}
+.fea-main .po-box p {font-size: 18px; color: #4a4a4a; font-weight: 500; margin: 0; line-height: 26px;}
+.get-title{font-size: 40px; font-weight: 300; color: #fff; margin: 0; padding-bottom: 20px; text-align: center; background: url(../images/divider.png) bottom center no-repeat; margin-bottom: 30px;}
+.dow-title{font-size: 40px; font-weight: 300; color: #fff; margin: 0; text-align: center; margin: 40px 0;}
+.lp-vid-bg{border-radius: 10px; background-color: #ffffff; padding: 15px; margin-bottom: 40px;}
+.videoWrapper {position: relative;padding-bottom: 56.25%; /* 16:9 */padding-top: 25px;height: 0;}
+.videoWrapper iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+
+.vid-line{background: rgba(255, 255, 255, 0.3); height: 1px;}
+.dow-btn {text-align: center;}
+.dow-btn a {background: #ffffff; border-radius: 40px; padding: 14px 20px; color: #6e6e6e; margin: 0 6px 10px 6px; text-decoration: none; font-size: 18px; font-weight: 500; display: inline-block;}
+.dow-btn a img {margin-right: 10px; margin-top: -5px;}
+.note{background: #f7c904; border: 1px solid #f2ea96; padding: 20px; margin: 30px 0;}
+.note p{font-size: 16px; color: #161616; font-weight: 400; margin: 0;}
+.bot-box{background: rgba(25, 15, 85, 0.75); padding: 30px; margin-bottom: 50px;}
+.bot-box h2{font-size: 40px; font-weight: 500; color: #ffffff; text-align: center; margin: 0;}
+.ref-cod{background: #f88306; font-size: 20px; font-weight: 700; color: #ffffff; text-align: center; padding: 20px; margin-top: 20px;}
+.ref-cod span{font-size: 50px;}
+.spon-box{background: #961bf5; font-size: 20px; line-height: 40px; font-weight: 700; color: #ffffff; text-align: center; padding: 7px 20px; margin-top: 20px;}
+.spon-box span{font-size: 48px;}
+.social-bg{background: rgba(0, 0, 0, 0.2); padding: 25px 0;}
+.social-bg p{font-size: 21px; color: #ffffff; font-weight: 700; margin: 8px 0 0 0;}
+.social-bg img{margin-left: 5px;}
+.lp-ftr {background: url(../images/ftr-bg.jpg) no-repeat; padding: 40px 0px; background-size: cover; text-align: center;}
+.lp-copy-bg {background: #020416; padding: 8px 0px;}
+.lp-copy {color: #c4c7dc; font-size: 13px; font-weight: 400; text-align: center;}
